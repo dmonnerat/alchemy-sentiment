@@ -1,3 +1,3 @@
-twitter_consumer_key='YOUR_TWITTER_CONSUMER_KEY' 
-twitter_consumer_secret='YOUR_TWITTER_CONSUMER_SECRET'
-alchemy_apikey='YOUR_ALCHEMY_API_KEY'
+twitter_consumer_key='Xo3L90j5QIpfrPfawMhrpot0d' 
+twitter_consumer_secret='mhAnfrr2Lc3eliJvG8H0Bu2V7GJpDpMDkqXUYCf3SG7n7QzfUo'
+alchemy_apikey='a20c54b81a38ae6cba8e7757c5571f0a899a83e6'
